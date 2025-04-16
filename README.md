@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello World! 👋
+![Profile views](https://komarev.com/ghpvc/?username=briochee&color=blue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briochee&layout=compact)
+
+I'm a graduate of Hunter College with a dual background in Computer Science and Clinical Psychology. Through my academic journey, I've developed a strong foundation in research methods and psychological theory—covering areas from child development to psychopathology and abnormal psychology.
+
+On the tech side, I’ve built several full-stack web applications using React.js, Express, HTML/CSS, JavaScript, SQL, and MongoDB. I also have experience in Python, in creating simple desktop programs to exploring data structures and solitions to numerous coding challenges. However, I would say my expertise is in C++, developing programs, software, and systems designs. I enjoy its core principles, always attempting to create immersive ideas with object oriented programming.
+
+I have taken coursera courses in Cybersecurity, earning a Google cirtificate in cybersecurity. Additionally, Codepath's courses in IOS Development and Cybersecurity has given me expereince with Xcode, Swift, and has strengthened my understanding of cybersecurity principles.
 
 <!--
 **Briochee/Briochee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
